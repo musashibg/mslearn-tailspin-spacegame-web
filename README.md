@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/adalemski-learning/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status%2FSpaceGame-Web-CI?branchName=main)](https://dev.azure.com/adalemski-learning/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
